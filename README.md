@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil  😁
+## <div align="center">🎈🎉🙌 WELCOME! 🙌🎉🎈</div>
 <div align="center">
    <a href="https://github.com/brunosb92">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosb92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
