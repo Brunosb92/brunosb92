@@ -1,7 +1,7 @@
 ## <div align="center">🎈🎉🙌 WELCOME! 🙌🎉🎈</div>
 <div align="center">
-   <a href="https://github.com/brunosb92">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosb92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/Brunosb92">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunosb92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
      <br>
    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosb92&layout=compact&langs_count=6&theme=tokyonight"/></a></div>
 <div align="center">
