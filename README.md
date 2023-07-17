@@ -1,7 +1,7 @@
 ## <div align="center">🎈🎉🙌 WELCOME! 🙌🎉🎈</div>
 <div align="center">
-   <a href="https://github.com/Brunosb92">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Brunosb92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Erro no carregamento da imagem.">
+   <a href="https://github.com/brunosb92">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunosb92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Erro no carregamento da imagem.">
      <br>
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosb92&layout=compact&langs_count=6&theme=tokyonight"/></a></div>
 <div align="center">
