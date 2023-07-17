@@ -2,8 +2,7 @@
 <div align="center">
    <a href="https://github.com/brunosb92">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Brunosb92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Erro no carregamento da imagem.">
-     <br>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunosb92&layout=compact&langs_count=6&theme=tokyonight"/></a></div>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunosb92&layout=compact&langs_count=6&theme=tokyonight"/></a></div>
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +32,4 @@
   <a href="https://instagram.com/brunosb.92" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunobar92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunosb92" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
- 
-  ![Snake animation](https://github.com/brunosb92/brunosb92/blob/output/github-contribution-grid-snake.svg)
-
 </div>
